@@ -97,6 +97,17 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [seedance-2-0-mini-api-de](https://github.com/xs8a6f8p3/seedance-2-0-mini-api-de)
+- **Same model, other languages** — 9 more language builds: 中文 [seedance-2-0-mini-api-cn](https://github.com/dsdbg6xhzh1/seedance-2-0-mini-api-cn) · Español `seedance-2-0-mini-api-es` · Français [seedance-2-0-mini-api-fr](https://github.com/gafq9gy6/seedance-2-0-mini-api-fr) · Relay/gateway `seedance-2-0-mini-api-gateway` · Bahasa [seedance-2-0-mini-api-id](https://github.com/aw8dtjepwbtwg1/seedance-2-0-mini-api-id) · 日本語 [seedance-2-0-mini-api-ja](https://github.com/kfale5s9qj/seedance-2-0-mini-api-ja) · 한국어 [seedance-2-0-mini-api-ko](https://github.com/y-agn7/seedance-2-0-mini-api-ko) · Português [seedance-2-0-mini-api-pt](https://github.com/vr3yway/seedance-2-0-mini-api-pt) · Русский [seedance-2-0-mini-api-ru](https://github.com/b0xxdvx1nxgil/seedance-2-0-mini-api-ru)
+- **More models in this language** — [midjourney-api-de](https://github.com/h5fd0cofy/midjourney-api-de) · [gemini-2-5-flash-image-preview-api-de](https://github.com/kn6f69s2b8j9/gemini-2-5-flash-image-preview-api-de) · [nano-banana-api-de](https://github.com/uh6cob8op/nano-banana-api-de) · [gemini-3-1-flash-image-preview-api-de](https://github.com/k8wq8pd46e5ku/gemini-3-1-flash-image-preview-api-de) · [nano-banana-2-api-de](https://github.com/mocpl3/nano-banana-2-api-de) · [gemini-3-pro-image-preview-api-de](https://github.com/cmpxx2w/gemini-3-pro-image-preview-api-de)
+- **Topic hubs** — every build of this model, all languages: [seedance-2-0-mini](https://github.com/topics/seedance-2-0-mini) · [seedance-2-0-mini-api](https://github.com/topics/seedance-2-0-mini-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
